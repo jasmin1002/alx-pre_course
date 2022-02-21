@@ -1,0 +1,12 @@
+
+git status
+git add [./a/file_name]
+git commit
+git push
+git pull
+git branch
+git branch [newBranchName]
+git checkout branchName
+git clone
+git config user.name username
+git config user.email email
